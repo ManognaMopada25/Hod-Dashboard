@@ -148,17 +148,17 @@ http://localhost:3000
 -  Multi-language Support
 
 
-## 👩‍💻 Developed By
+##  Developed By
 ```
-**Mopada Manogna**
-**Chandini Daneti**
-**Peketi Krishna Priya**
-**Dunna Manisha**
+Mopada Manogna
+Chandini Daneti
+Peketi Krishna Priya
+Dunna Manisha
 ```
 B.Tech - Information Technology (2026)
 
 
 
-## 📜 License
+##  License
 
 This project is developed for educational purposes.
