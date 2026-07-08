@@ -1,6 +1,6 @@
 #  AI-Based Task Management System
 
-An AI-powered task management web application developed as an academic group project. The system enables users to create, manage, and track tasks while providing AI-powered assistance through an integrated chatbot. The application uses Next.js for the frontend, Node.js and Express for the backend, and MongoDB for data storage.
+An AI-powered task management web application developed as an academic group project. The system enables users to create, manage, and track tasks while providing AI-powered assistance through an integrated chatbot. The application uses Next.js for the frontend, Node.js for the backend, and MongoDB for data storage.
 
 
 
