@@ -136,18 +136,6 @@ http://localhost:3000
 ```
 
 
-## 👩‍💻 My Contribution
-
-This project was developed as an **academic group project**.
-
-My contributions include:
-
--  Integrated the AI chatbot using RapidAPI.
--  Tested chatbot functionality and task workflows.
--  Assisted in debugging API integration issues.
--  Improved chatbot prompts for better responses.
-
-
 
 ##  Future Enhancements
 
